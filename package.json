@@ -1,0 +1,9 @@
+{
+  "name": "mensumath",
+  "version": "1.0.0",
+  "description": "math functions for mensuration problems",
+  "main": "index.js",
+  "author": "sherlock",
+  "license": "MIT",
+  "private": false
+}
