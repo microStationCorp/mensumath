@@ -1,6 +1,6 @@
 {
   "name": "mensumath",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "math functions for mensuration problems",
   "main": "index.js",
   "author": "sherlock",
@@ -9,5 +9,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/microStationCorp/mensumath.git"
-  }
+  },
+  "type": "module"
 }
