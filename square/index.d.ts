@@ -3,4 +3,5 @@ export declare class Square {
     constructor(side: number);
     perimeter(): number;
     area(): number;
+    diagonal(): number;
 }
