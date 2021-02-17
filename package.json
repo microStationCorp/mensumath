@@ -1,6 +1,6 @@
 {
   "name": "mensumath",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "math functions for mensuration problems",
   "main": "index.js",
   "author": "sherlock",
