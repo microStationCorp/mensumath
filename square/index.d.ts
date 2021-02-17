@@ -4,4 +4,6 @@ export declare class Square {
     perimeter(): number;
     area(): number;
     diagonal(): number;
+    areaOfInCircle(): number;
+    areaOfOutCircle(): number;
 }
