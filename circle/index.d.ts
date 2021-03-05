@@ -3,4 +3,5 @@ export declare class Circle {
   constructor(radius: number);
   area(): number;
   perimeter(): number;
+  areaOfInnerBiggestSquare(): number;
 }
